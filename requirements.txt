@@ -1,4 +1,4 @@
-# Add dash package
-# Add gunicorn package
-# Add pandas package
-# Add plotly package
+dash
+gunicorn
+pandas
+plotly
